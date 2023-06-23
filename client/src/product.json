@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 9",
+        "price": 549,
+        "description": "An apple mobile which is nothing like apple",
+        "type": "smartphones",
+        "photo": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Samsung Universe 9",
+        "price": 1249,
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "type": "smartphones",
+        "photo": "https://i.dummyjson.com/data/products/3/thumbnail.jpg"
+      },
+      {
+        "id": 4,
+        "name": "55O PPOF19",
+        "price": 280,
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "type": "smartphones",
+        "photo": "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+      },
+      {
+        "id": 5,
+        "name": "tHuawei P30",
+        "price": 499,
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "type": "smartphones",
+        "photo": "https://i.dummyjson.com/data/products/5/thumbnail.jpg"
+      },
+      {
+        "id": 6,
+        "name": "MacBook Pro",
+        "price": 1749,
+        "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+        "type": "laptops",
+        "photo": "https://i.dummyjson.com/data/products/6/thumbnail.png"
+      },
+      {
+        "id": 7,
+        "name": "Samsung Galaxy Book",
+        "price": 1499,
+        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "type": "laptops",
+        "photo": "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+      },
+      {
+        "id": 8,
+        "name": "44Microsoft Surface Laptop 4",
+        "price": 1499,
+        "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+        "type": "laptops",
+        "photo": "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Infinix INBOOK",
+        "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+        "price": 1099,
+        "discountPercentage": 11.83,
+        "rating": 4.54,
+        "stock": 96,
+        "brand": "Infinix",
+        "type": "laptops",
+        "tphoto": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/9/1.jpg",
+          "https://i.dummyjson.com/data/products/9/2.png",
+          "https://i.dummyjson.com/data/products/9/3.png",
+          "https://i.dummyjson.com/data/products/9/4.jpg",
+          "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+        ]
+      }
+]
